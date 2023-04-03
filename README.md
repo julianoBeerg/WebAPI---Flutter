@@ -8,12 +8,17 @@
 - `async/await`: The `async` and the `await` for requests that are asynchronous operations;
 - `interceptors`
 - `logger`: The logger for better viewing on the console;
+- `CRUD`
+- `dialog`
+- `headers`
+- `catchError`
 
 ## 🔨 Project
 
 The WebAPI Project- Integrating Your Application are **Classes** and **Functions** to generate a **Personal Diary** application, which **registers daily entries** of the person using the application.
 
 ![GIF animado demonstrando funcionalidades do projeto](https://github.com/alura-cursos/flutter_webapi_first_course/raw/main/gif01.gif)
+![GIF animado demonstrando funcionalidades do projeto](https://github.com/alura-cursos/flutter_webapi_second_course/raw/main/gif02.gif)
 
 ## 🛠️ Open e run the project
 
@@ -25,3 +30,4 @@ The WebAPI Project- Integrating Your Application are **Classes** and **Functions
 - Have a server [JSON-Server](https://www.npmjs.com/package/json-server) running the archive [server/db.json] at an address visible to the used emulator;
 
 *Any collaboration is welcome, Thanks!*
+
